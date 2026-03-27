@@ -1,0 +1,4 @@
+# .gitignore (example)
+__pycache__/
+.venv/
+config.txt
